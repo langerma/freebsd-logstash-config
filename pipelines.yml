@@ -8,8 +8,8 @@
 - pipeline.id: main
   path.config: "/usr/local/etc/logstash/conf.d/*.conf"
 
-- pipeline.id: elastiflow
-  path.config: "/usr/local/etc/logstash/elastiflow/conf.d/*.conf"
+  #- pipeline.id: elastiflow
+  #path.config: "/usr/local/etc/logstash/elastiflow/conf.d/*.conf"
 
 # Example of two pipelines:
 #
